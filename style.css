@@ -1,0 +1,24 @@
+h1 {
+  background-color: black;
+  color: white;
+  font-weight: 800;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  background-color: beige;
+  padding: 20px;
+  color: orangered;
+  font-weight: 700;
+}
+
+p:hover {
+  background-color: black;
+  color: white;
+  margin-left: 3px;
+}
